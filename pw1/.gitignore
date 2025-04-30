@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+pw1.ipynb
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+*.zip           
